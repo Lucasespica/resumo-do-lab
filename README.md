@@ -39,3 +39,11 @@ No quinto Lab, vimos sobre as máquinas virtuais Azure (VMs), que permitem execu
  - **Contêineres** (Azure Kubernetes Service - AKS): É uma plataforma gerenciada para executar contêineres Docker e aplicativos distribuídos. Ele facilita a orquestração e o gerenciamento de contêineres, com alta escalabilidade e integração com outras soluções da Azure.
  - **Azure Functions**: É um serviço de computação sem servidor que permite executar código em resposta a eventos, sem precisar gerenciar infraestrutura. Você paga apenas pelo tempo de execução do código, o que a torna uma solução flexível e econômica para tarefas como processamento de eventos ou automação.
  - **Serviços de Aplicativo (App Service)**: É uma plataforma PaaS que facilita a construção, hospedagem e escalabilidade de aplicativos web e APIs. Ele suporta várias linguagens de programação e oferece recursos como autoescalonamento, integração contínua, e segurança.
+
+Sexto Lab:
+---
+No sexto Lab, vimos os studios da azure, o Estúdio de Fala e o Language Studio:
+ - **Estúdio de Fala (Speech Studio)**: Essa plataforma permite criar e personalizar soluções que lidam com reconhecimento de fala, síntese de fala, tradução e outros serviços relacionados à fala. Ele oferece APIs para transformar voz em texto (ASR), texto em voz (TTS), e realizar transcrições de áudio, entre outros. O objetivo é integrar interações de fala natural em aplicativos, como assistentes virtuais e sistemas de atendimento ao cliente.
+ - **Language Studio**: Focado em soluções de processamento de linguagem natural (PLN), o Language Studio permite que os desenvolvedores criem, treinem e implementem modelos de IA para análise de texto. Isso inclui tarefas como entendimento de intenção (NLP), análise de sentimentos, extração de informações e tradução de idiomas. Ele também oferece ferramentas para trabalhar com chatbots e modelos de linguagem personalizados.
+
+Ambos os estúdios são integrados à Azure Cognitive Services, proporcionando poderosas ferramentas de IA que podem ser facilmente aplicadas em vários cenários, como chatbots, assistentes de voz e sistemas de automação.
