@@ -47,3 +47,11 @@ No sexto Lab, vimos os studios da azure, o Estúdio de Fala e o Language Studio:
  - **Language Studio**: Focado em soluções de processamento de linguagem natural (PLN), o Language Studio permite que os desenvolvedores criem, treinem e implementem modelos de IA para análise de texto. Isso inclui tarefas como entendimento de intenção (NLP), análise de sentimentos, extração de informações e tradução de idiomas. Ele também oferece ferramentas para trabalhar com chatbots e modelos de linguagem personalizados.
 
 Ambos os estúdios são integrados à Azure Cognitive Services, proporcionando poderosas ferramentas de IA que podem ser facilmente aplicadas em vários cenários, como chatbots, assistentes de voz e sistemas de automação.
+
+Sétimo Lab:
+---
+No sétimo Lab, vimos algumas ferramentas do azure sobre buscas cognitivas e alguns conceitos:
+ - **Mineração de Conhecimento**: Processo de descobrir padrões, insights e informações relevantes a partir de grandes volumes de dados, utilizando técnicas de análise e aprendizado de máquina.
+ - **Solução de Pesquisa Cognitiva do Azure**: Plataforma que combina IA, aprendizado de máquina e processamento de linguagem natural (PLN) para melhorar a busca e extração de informações em grandes volumes de dados, permitindo resultados mais inteligentes e relevantes.
+ - **Enriquecimento de IA**: Conjunto de ferramentas do Azure que aplicam IA para melhorar dados, como a extração de informações contextuais e insights, usando APIs de aprendizado de máquina, visão computacional e PLN.
+ - **Buscas Cognitivas**: Ferramenta de busca inteligente que utiliza IA para fornecer resultados mais precisos e contextuais, permitindo que empresas integrem e busquem dados de diferentes fontes de maneira mais eficaz, com base no significado e não apenas nas palavras-chave.
